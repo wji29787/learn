@@ -123,7 +123,7 @@ Open Visual Studio Code and press Command + Shift + P then type `Shell` 
 窗口管理快捷键如下，可自行修改配置。
 <a name="8Pb4p"></a>
 
-## ![image.png](https://intranetproxy.alipay.com/skylark/lark/0/2019/png/224068/1561639536251-94cf823b-1993-4d32-a5df-a9ec25e21557.png#align=left&display=inline&height=535&name=image.png&originHeight=1070&originWidth=1232&size=317093&status=done&width=616)
+## ![image.png]()
 
 <a name="tPoax"></a>
 
@@ -131,7 +131,7 @@ Open Visual Studio Code and press Command + Shift + P then type `Shell` 
 
 ### sourcetree 安装
 
-1、打开 sourcetree<br />2、关闭 sourcetree<br />3、命令终端输入`defaults write com.torusknot.SourceTreeNotMAS completedWelcomeWizardVersion 3`<br />4、打开 sourcetree 即可跳过登录<br />![image.png](https://intranetproxy.alipay.com/skylark/lark/0/2019/png/224068/1564658785877-59d4e062-a77a-428f-abfd-7f2cb540e6a6.png#align=left&display=inline&height=108&name=image.png&originHeight=216&originWidth=214&size=26595&status=done&width=107)
+1、打开 sourcetree<br />2、关闭 sourcetree<br />3、命令终端输入`defaults write com.torusknot.SourceTreeNotMAS completedWelcomeWizardVersion 3`<br />4、打开 sourcetree 即可跳过登录<br />
 
 # 几款不错的在线流程图绘制工具
 
